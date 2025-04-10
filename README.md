@@ -5,7 +5,8 @@
 
 #images are 640x480 PNG files!
 
-![image](https://github.com/user-attachments/assets/18292e01-c47b-4589-84ad-b476fee83b10)
+https://imgur.com/a/rX4lRIp
+
 
 
 #all of these were made in sketchbook for ios:
