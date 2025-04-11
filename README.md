@@ -1,7 +1,5 @@
-┌──────┐┌──────┐┌      ┐        ┌──────┐┌──────┐
-┌──────││       │──────┘        │      │└──────┐
-│      ││       │      │ ────── │      ││      │
-└──────┘└       └      ┘        └──────┘└──────┘
+![image](https://github.com/user-attachments/assets/3abfdf3b-336e-4e4f-a475-fbae1c52c643)
+
 
 maximum effort and competently made ArkOS-startup-walpapers!
 
