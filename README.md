@@ -1,3 +1,8 @@
+┌──────┐┌──────┐┌      ┐        ┌──────┐┌──────┐
+┌──────││       │──────┘        │      │└──────┐
+│      ││       │      │ ────── │      ││      │
+└──────┘└       └      ┘        └──────┘└──────┘
+
 maximum effort and competently made ArkOS-startup-walpapers!
 
 if you really REALLY want them:
