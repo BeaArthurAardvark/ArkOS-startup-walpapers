@@ -10,7 +10,7 @@ featuring:
 A mix of borrowed images from the internet 
 and images I've taken & modified  
 
-[images are 640x480 PNG files!]
+[images are 640x480 BMP files!]
 
 ![image](https://github.com/user-attachments/assets/39dd94ae-ce19-4c96-bf5e-823f18a33c83)
 
